@@ -1,0 +1,42 @@
+[
+    {
+        "last_name": "Иванов",
+        "first_name": "Иван",
+        "middle_name": "Иванович",
+        "organization": "ООО Рога и Копыта",
+        "work_phone": "+7 (123) 456-78-90",
+        "personal_phone": "+7 (987) 654-32-10"
+    },
+    {
+        "last_name": "Петров",
+        "first_name": "Петр",
+        "middle_name": "Петрович",
+        "organization": "ЗАО Металлургия",
+        "work_phone": "+7 (111) 222-33-44",
+        "personal_phone": "+7 (555) 666-77-88"
+    },
+    {
+        "last_name": "Сидоров",
+        "first_name": "Алексей",
+        "middle_name": "Сергеевич",
+        "organization": "ИП Ремонтник",
+        "work_phone": "+7 (999) 888-77-66",
+        "personal_phone": "+7 (333) 222-11-00"
+    },
+    {
+        "last_name": "Козлов",
+        "first_name": "Сергей",
+        "middle_name": "Андреевич",
+        "organization": "ООО Продукты",
+        "work_phone": "+7 (444) 555-66-77",
+        "personal_phone": "+7 (777) 888-99-00"
+    },
+    {
+        "last_name": "Морозов",
+        "first_name": "Андрей",
+        "middle_name": "Владимирович",
+        "organization": "ЗАО Электроника",
+        "work_phone": "+7 (222) 333-44-55",
+        "personal_phone": "+7 (666) 777-88-99"
+    }
+]
